@@ -1,0 +1,1 @@
+/home/sanjib/.zshrc
